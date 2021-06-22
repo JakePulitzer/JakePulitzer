@@ -6,7 +6,7 @@ I graduated from the Leeds School of Business at University of Colorado Boulder 
 
 In my free time you will find me fly fishing, skiing, and hiking with my family and friends in the beautiful Rocky Mountains.  
 
-On my GitHub page you can find analytics projects from my master's program along with some other personal projects I have been working on. 
+On my GitHub page you can find analytics projects from my masters program along with some other personal projects I have been working on. 
 
 **Take a look and hope you enjoy! Also, any feedback is welcome.**
 
